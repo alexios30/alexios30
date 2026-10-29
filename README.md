@@ -45,6 +45,6 @@
 ## 🎯 Interests
 
 - 💻 Programming  
-- 🏎️ Automotive & Formula 1 
+- 🏎️ Automotive & Formula 1 (MAX 🦁 FAN)
 - 🏋️ Fitness  
 
