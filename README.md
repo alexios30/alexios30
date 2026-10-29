@@ -3,16 +3,6 @@
 
 🎓 Computer Science student (Engineering school at EFREI)  
 💻 Aspiring Software & Information Systems Engineer (EFREI Paris)  
-🔍 Currently looking for a 3-year apprenticeship starting September 2026  
-
-## 🚀 About Me
-
-I'm a passionate developer with a strong interest in web development, software engineering, and system architecture.  
-I enjoy building real-world projects and continuously improving my technical skills.
-
-- 🔭 Currently working as a Web Developer apprentice at Pomlo  
-- 🌱 Learning more about backend, DevOps, and scalable systems  
-- 🎯 Career goal: Software Engineer in tech
 
 
 ## 🛠️ Tech Stack
