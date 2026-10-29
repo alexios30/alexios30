@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Alexis Champault
 
-🎓 Computer Science student (BUT Informatique)  
+🎓 Computer Science student (Engineering school at EFREI)  
 💻 Aspiring Software & Information Systems Engineer (EFREI Paris)  
 🔍 Currently looking for a 3-year apprenticeship starting September 2026  
 
@@ -55,6 +55,6 @@ I enjoy building real-world projects and continuously improving my technical ski
 ## 🎯 Interests
 
 - 💻 Programming  
-- 🏎️ Automotive & Formula 1  
+- 🏎️ Automotive & Formula 1 
 - 🏋️ Fitness  
 
